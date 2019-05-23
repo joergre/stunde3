@@ -7,3 +7,7 @@ curl -L https://github.com/docker/compose/releases/download/$DOCKER_COMPOSE_VERS
 sudo mv docker-compose /opt/bin/
 
 chmod +x /opt/bin/docker-compose
+    ls
+    ls
+ls
+
